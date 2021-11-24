@@ -1,0 +1,10 @@
+Summary:Hello, It's Voltaire ISHIMWE, 
+        an Rwandan Networking expert/ Web developer.   
+        I've worked as a Graphic/Web designer/ Networking for 3+ years. 
+        I am currently studying Full Stack Web Development Course,
+Skills:[
+       "HTML5", "CSS3", "Bootstrap", "JavaScript", "ES6", "JQuery",     
+       "SASS", "React.js", "Linux", "VS Code", "Atom","Photoshop", 
+       "Illustrator", "InDesign",     "MS Office",]
+ 
++ADOBE USER
